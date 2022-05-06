@@ -1,6 +1,6 @@
 # JaegerML
 
-This project combines machine learning embedded devices to develop real-time 'combat-responsive' wireless controllers for playing an included side-scrolling fighting game.
+This project combines machine learning with embedded devices to develop real-time 'combat-responsive' wireless controllers for playing an included side-scrolling fighting game.
 
 # About
 
