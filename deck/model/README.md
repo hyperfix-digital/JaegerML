@@ -12,5 +12,7 @@ The data will be collected first by recording for each device 50 observations of
 After each punch is recorded the 'puncher' will rotate random amounts to add variety in rotational direction for each punch.
   
 Because the developers and thus the data gatherers are few in this project, we can make use of some math to synthesize new punch sequences for our dataset. Because the 'puncher' is to randomly rotate after each punch, we can synthesize more punches by taking the punch data we already have and rotating it around a center axis to create new 'punch trails' like so:
+
+<img src="untitled.png" width="300" height="300">
   
-  
+Where the red dot is the 'puncher', the blue trail of dots is the actual punch recorded, and the pale blue dots are the synthesized datasets made by applying a rotation along the center axis.
